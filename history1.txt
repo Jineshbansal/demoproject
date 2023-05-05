@@ -1,0 +1,60 @@
+  998  sudo port install git\n\n
+  999  $ brew install git\n\n
+ 1000  brew install git\n\n
+ 1001  brew --version
+ 1002   brew install git
+ 1003  git --version
+ 1004  cd Desktop
+ 1005  ls
+ 1006  cd demo\ projects
+ 1007  git init 
+ 1008  git status
+ 1009   git add index.html
+ 1010  git status
+ 1011   git remote add origin https://github.com/Jineshbansal/demoproject.git
+ 1012  git push -u origin master
+ 1013  git commit -m "first commit"
+ 1014  git push -u origin master
+ 1015  git push -u origin master 
+ 1016   git remote add origin https://github.com/Jineshbansal/demoproject.git
+ 1017  git push -u origin master 
+ 1018  git commit -m "first commit"
+ 1019  git push -u origin master 
+ 1020  git remote add origin https://github.com/Jineshbansal/demoproject.git\ngit branch -M main\ngit push -u origin main
+ 1021  git remote add origin https://github.com/Jineshbansal/demoproject.git\ngit branch -M main\ngit push -u origin main
+ 1022  git remote add origin https://github.com/Jineshbansal/demoproject.git\ngit branch -M main\ngit push -u origin main
+ 1023  git config --global user.name jiensh
+ 1024  git config --global user.name jinesh
+ 1025  git config --global user.name jinesh
+ 1026  git config --global user.email 732005jinesh@gmail.com
+ 1027  git config --global user.email 
+ 1028   code .
+ 1029  git init 
+ 1030  ls -lart
+ 1031  git status
+ 1032  git add index.html
+ 1033  git status
+ 1034  git commit 
+ 1035   git status
+ 1036  touch about.html
+ 1037  touch contact.html
+ 1038  touch monuments.html
+ 1039  git status
+ 1040  git add -a
+ 1041  git status
+ 1042  git add -A
+ 1043  git status
+ 1044    git add index.html
+ 1045  git status
+ 1046  git status
+ 1047  git add -A
+ 1048  git status
+ 1049  git commit -m "added more htmls"
+ 1050  git status
+ 1051  clear
+ 1052  history > history1.txt
+ 1053  cat history1.txt
+ 1054  history
+ 1055  history -20
+ 1056  history -30
+ 1057  history -50
