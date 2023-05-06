@@ -1,1 +1,7 @@
-mylogs.log
+
+/mylogs.log
+*.log
+efa
+" to ignore the files at the same level" 
+*.cpp
+/ignore
